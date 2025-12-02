@@ -19,7 +19,6 @@ Um jogo simples e divertido feito com HTML, CSS e JavaScript, onde o jogador ten
 - **HTML5**
 - **CSS3** (com fontes do Google Fonts)
 - **JavaScript** (ES6+)
-- [ResponsiveVoice.js](https://responsivevoice.org/) – para feedback por áudio
 
 ## 📦 Como Executar Localmente
 
